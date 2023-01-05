@@ -1,0 +1,18 @@
+.Pokedex {
+	width: 100vw;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.Pokedex-deck {
+	max-width: 1200px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+.Pokedex-title {
+	text-align: center;
+}

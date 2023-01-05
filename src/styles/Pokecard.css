@@ -1,0 +1,26 @@
+.Pokecard {
+	width: 210px;
+	height: 270px;
+	background-color: gainsboro;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	margin: 25px;
+	padding: 25px 0px;
+}
+
+.Pokecard-title {
+	font-size: 1.1rem;
+	color: blue;
+}
+
+.Pokecard-img {
+	width: 120px;
+}
+
+.Pokecard-info {
+	text-align: center;
+	font-size: 0.8rem;
+}
